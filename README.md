@@ -31,14 +31,18 @@ How to Run
 Clone the repository:
 
 git clone https://github.com/yourusername/pandas-bingo.git
+
 cd pandas-bingo
+
 Install dependencies:
 
 pip install -r requirements.txt
+
 Run the application:
 
 
 streamlit run app.py
+
 Play the Game:
 
 Choose a difficulty level.
@@ -52,12 +56,6 @@ Technologies Used
 Python
 
 Pandas
-
-Matplotlib
-
-Seaborn
-
-Streamlit
 
 Matplotlib
 
