@@ -1,12 +1,12 @@
-A Gamified Approach to Learning Pandas Package
+#A Gamified Approach to Learning Pandas Package
 
-Overview
+#Overview
 
 Pandas Bingo is an interactive web application that combines learning with play. It is designed to help users grasp the concepts of the Pandas library in Python through a gamified Bingo-style quiz. This educational tool is ideal for students, data science enthusiasts, and anyone looking to improve their knowledge of the Pandas library while having fun.
 
 The project uses Python, Streamlit, and visualization libraries like Matplotlib and Seaborn to create an engaging and visually informative game interface.
 
-Features
+#Features
 
 Gamified Learning Experience: Play Bingo while answering questions about the Pandas library.
 
